@@ -1,0 +1,56 @@
+
+
+Q 2 - How can you get the type of arguments passed to a function?
+
+A - using typeof operator
+
+B - using getType function
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : A
+Explanation
+Using typeof operator, we can get the type of arguments passed to a function.
+
+Q 3 - Which built-in method returns the length of the string?
+
+A - length()
+
+B - size()
+
+C - index()
+
+D - None of the above.
+
+Answer : A
+Explanation
+length() method returns the length of the string.
+
+Q 4 - All user-defined objects and built-in objects are descendants of an object called Object?
+
+A - true
+
+B - false
+
+Answer : A
+Explanation
+All user-defined objects and built-in objects are descendants of an object called Object.
+
+
+
+Q 6 - Which of the following function of String object returns the index within the calling String object of the last occurrence of the specified value?
+
+A - lastIndexOf()
+
+B - search()
+
+C - substr()
+
+D - indexOf()
+s
+Answer : A
+Explanation
+lastIndexOf() − Returns the index within the calling String object of the last occurrence of the specified value, or -1 if not found.
+
